@@ -9,5 +9,5 @@ if($mysqli->connect_error){
 // dfelipe = audiometria
 // bbastidas = usuario para pruebas crear (examen medico - 403EM- acceso1)
 // PRUEBA RAMA 1 GIT COLABORATIVO ALEX - 3 BRAYAN 
-
+// ME LA PELAS INGE NA MENTIRA UNA RANKS O QUE 
 ?>
